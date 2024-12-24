@@ -44,13 +44,16 @@
 ---
 
 ### 📌 Featured Projects:
-
-- **[Pokémon Game](https://github.com/ayushbhanot/UnityPokemonGame):**  
-  A Unity-based turn-based Pokémon game with AI-driven battles, evolution mechanics, and more.
   
 - **[AI-Powered Note-Taking Tool](https://github.com/ayushbhanot/NoteTakingTool):**  
   Real-time transcription and note organization using React.js, Node.js, and the OpenAI API.
 
+- **[Destination Europe](https://github.com/ayushbhanot/DestinationEurope):**  
+  A full-stack travel application offering a wide range of features, including user authentication, list management, reviews, and interactive maps. Designed to enhance user engagement with a robust and intuitive interface.
+
+- **[Pokémon Game](https://github.com/ayushbhanot/UnityPokemonGame):**  
+  A Unity-based turn-based Pokémon game with AI-driven battles, evolution mechanics, and more.
+  
 Check out my pinned repositories for more details!
 
 ---
