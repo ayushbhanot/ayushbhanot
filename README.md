@@ -13,6 +13,12 @@
 
 ---
 
+### 🌐 Personal Portfolio:
+Check out my portfolio to learn more about my projects, experience, and skills!  
+[Visit my Portfolio](https://ayush-personal-portfolio-nu.vercel.app)
+
+---
+
 ### 💻 Technologies & Tools 🛠️
 
 #### Programming Languages:
