@@ -57,7 +57,7 @@ Want to dive deeper into my resume, projects, and technical skills?
 ### 📌 Featured Projects:
 
 - **[Data HealthCare App](https://github.com/ayushbhanot/HealthCareDataAppPersonal):**  
-  A cross-platform mobile app built to streamline patient registration and real-time medical data collection at healthcare camps. Features secure photo ID upload, medical history tracking, and backend integration using Node.js and YugabyteDB on Google Cloud.
+  A cross-platform mobile app for patient registration and real-time data collection at healthcare camps. Includes photo ID upload, medical history tracking, and cloud integration with Node.js and YugabyteDB on GCP.
 
 - **[AI-Powered Note-Taking Tool](https://github.com/ayushbhanot/NoteTakingTool):**  
   Real-time transcription and note organization using React.js, Node.js, and the OpenAI API.
