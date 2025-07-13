@@ -14,8 +14,9 @@
 ---
 
 ### 🌐 Personal Portfolio:
-Check out my portfolio to learn more about my projects, experience, and skills!  
-[Visit my Portfolio](https://ayush-personal-portfolio-nu.vercel.app)
+
+Want to dive deeper into my resume, projects, and technical skills?  
+👉 [Check out my Portfolio](https://ayush-personal-portfolio-nu.vercel.app)
 
 ---
 
@@ -42,7 +43,7 @@ Check out my portfolio to learn more about my projects, experience, and skills!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![YugabyteDB](https://img.shields.io/badge/YugabyteDB-%23f15f2c.svg?style=flat&logo=yugabyte&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![YugabyteDB](https://img.shields.io/badge/YugabyteDB-%23f15f2c.svg?style=flat&logo=yugabyte&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-%23ffcc00.svg?style=flat&logo=data:image/svg+xml;base64,...&logoColor=black)
@@ -58,7 +59,6 @@ Check out my portfolio to learn more about my projects, experience, and skills!
 - **[Data HealthCare App](https://github.com/ayushbhanot/HealthCareDataAppPersonal):**  
   A cross-platform mobile app built to streamline patient registration and real-time medical data collection at healthcare camps. Features secure photo ID upload, medical history tracking, and backend integration using Node.js and YugabyteDB on Google Cloud.
 
-  
 - **[AI-Powered Note-Taking Tool](https://github.com/ayushbhanot/NoteTakingTool):**  
   Real-time transcription and note organization using React.js, Node.js, and the OpenAI API.
 
