@@ -28,6 +28,7 @@ Check out my portfolio to learn more about my projects, experience, and skills!
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat&logo=gnuemacs&logoColor=white)
 
 #### Frameworks & Libraries:
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
@@ -39,9 +40,12 @@ Check out my portfolio to learn more about my projects, experience, and skills!
 
 #### Tools & Platforms:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![YugabyteDB](https://img.shields.io/badge/YugabyteDB-%23f15f2c.svg?style=flat&logo=yugabyte&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![YugabyteDB](https://img.shields.io/badge/YugabyteDB-%23f15f2c.svg?style=flat&logo=yugabyte&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-%23ffcc00.svg?style=flat&logo=data:image/svg+xml;base64,...&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
@@ -50,6 +54,10 @@ Check out my portfolio to learn more about my projects, experience, and skills!
 ---
 
 ### 📌 Featured Projects:
+
+- **[Data HealthCare App](https://github.com/ayushbhanot/HealthCareDataAppPersonal):**  
+  A cross-platform mobile app built to streamline patient registration and real-time medical data collection at healthcare camps. Features secure photo ID upload, medical history tracking, and backend integration using Node.js and YugabyteDB on Google Cloud.
+
   
 - **[AI-Powered Note-Taking Tool](https://github.com/ayushbhanot/NoteTakingTool):**  
   Real-time transcription and note organization using React.js, Node.js, and the OpenAI API.
